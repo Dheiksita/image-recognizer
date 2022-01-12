@@ -1,0 +1,16 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object,#result_obj_name,#result_acc_name{
+    color: crimson;
+}
+body{
+    background-color: cyan;
+    color: rgb(0, 98, 255);
+}
+#camera{
+    border: 3px dotted green;
+    width: 360px;
+    height: 300px;
+}
